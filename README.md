@@ -56,3 +56,11 @@ To achieve a competitive score (closer to the current top tier of ~27% or the Gr
 - **Test-Time Training (TTT) / Fine-tuning:** Training lightweight Vision Transformers (ViT) or 1D sequence models on the test examples specifically.
 - **LLM-assisted Program Synthesis:** Generating Python or DSL code dynamically using open-weights models (if computationally viable).
 - **Object-Centric Representations:** Moving away from raw numpy grids to graph-based or object-oriented representations of the input spaces prior to transformation.
+
+<!-- BLOG-URL:START -->
+
+## Blog
+
+- Blog note: [ARC Prize 2025: Abstract Reasoning Challenge 🧩](https://softkleenex.github.io/coding_training/kaggle/kaggle-arc-prize-2025)
+
+<!-- BLOG-URL:END -->

@@ -61,6 +61,6 @@ To achieve a competitive score (closer to the current top tier of ~27% or the Gr
 
 ## Blog
 
-- Blog note: [ARC Prize 2025: Abstract Reasoning Challenge 🧩](https://softkleenex.github.io/coding_training/kaggle/kaggle-arc-prize-2025)
+- Blog note: [ARC Prize 2025: Abstract Reasoning Challenge 🧩](https://softkleenex.github.io/posts/kaggle-arc-prize-2025/)
 
 <!-- BLOG-URL:END -->
